@@ -1,0 +1,8 @@
+import javax.swing.*;
+
+public class ColorPanel extends JPanel {
+
+    public ColorPanel(){
+        setVisible(true);
+    }
+}
